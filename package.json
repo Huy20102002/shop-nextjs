@@ -29,6 +29,7 @@
     "react-svg": "^11.2.1",
     "styled-components": "^5.2.1",
     "styled-system": "^5.1.5",
+    "yarn": "^1.22.19",
     "yup": "^0.32.8"
   },
   "devDependencies": {
